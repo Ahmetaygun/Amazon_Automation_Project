@@ -56,7 +56,7 @@ amazon-automation/
 
 ⚙️ Installation
 Clone the repository:
-git clone https://github.com/yourusername/amazon-automation.git
+git clone https://github.com/Ahmetaygun/Amazon_Automation_Project
 cd amazon-automation
 
 Run the test:
