@@ -57,7 +57,7 @@ amazon-automation/
 ⚙️ Installation
 Clone the repository:
 git clone https://github.com/Ahmetaygun/Amazon_Automation_Project
-cd amazon-automation
+cd Amazon_Automation_Project
 
 Run the test:
 pytest tests/test_amazon.py
